@@ -51,7 +51,7 @@ Want to run it on your local machine? Follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/space-weather-forecaster.git
+git clone https://github.com/AyeshaAndleeb/space-weather-forecaster.git
 
 # Navigate to the project folder
 cd space-weather-forecaster
